@@ -172,6 +172,10 @@ Live Vorstellung beim Vorbereiten der Beuten (24.4.21)
 Achtet bitte darauf, zu diesem Termin alles zusammen zu haben.
 
 Wir nutzen als Typ/Maß: Dadant US
+--
+### Aufbau einer Dadant Beute
+![Dadant aufbau](./basiskurs1-data/Holtermann_dadant.jpg)  <!-- .element class="r-strech" width="35%" -->  
+(Copyright Holtermann-shop.de)
 
 --
 
@@ -280,6 +284,9 @@ Kommt primär bei Bienenhäusern zum tragen
 * Verbraucherrecht
 * Steuerrecht
 * Gewerberecht
+
+### Eure Betriebsnummer
+Ja, ihr seid als Imker offiziell Landwirte und braucht eine Betriebsnummer
 
 ---
 
