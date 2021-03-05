@@ -1,8 +1,6 @@
-# Generation 21 - Basiskurs 1
-## Imkerverein Eckental-Heroldsberg
+## Generation 21 - Basiskurs 1
 
-TODO: Logo besorgen
-
+![logo verein](./basiskurs1-data/imkerverein_log.jpg)
 ---
 
 ## Inhalte
@@ -17,12 +15,13 @@ TODO: Logo besorgen
 ---
 
 ## Standortwahl
-### Die Lage im Gelände
 
 --
 
+### Die Lage im Gelände
+
 Hier mal exemplarisch ein "idealer" Standort
-![Ein Idealer Platz](./basiskurs1-data/Lage.png)
+![Ein Idealer Platz](./basiskurs1-data/Lage.png)<!-- .element class="r-strech " -->
 
 --
 
@@ -46,8 +45,6 @@ z.B. im Spätsommer: Senf, Ölrettich
 
 --
 
-### Sonstiges
-## Standortwahl
 ### Sonstiges
 * Konkurrenz
 * Anfahrtmöglichkeiten
@@ -136,7 +133,6 @@ Der Anfang ist das schwerste ;)
 
 --
 
-## Bienenbeschaffung
 ### "Gute" Erstbezugsquellen
 * Imkerverein
 * Bienenmärkte/Bienenbörsen
@@ -144,15 +140,13 @@ Der Anfang ist das schwerste ;)
 
 --
 
-## Bienenbeschaffung
 ### do not ever do <!-- .element: style="color:red" -->
 * "Importbienen" z.B. aus Italien (kleiner Beutenkäfer) <!-- .element: class="fragment" style="color:red" -->
 * Bienen aus Sperrgebieten <!-- .element: class="fragment" style="color:red" -->
 
 --
 
-## Bienenbeschaffung
-### Tips beim Bienenkauf
+### Tipps beim Bienenkauf
 * Gesundheitszeugnis
 * Wenn möglich selbst Zustand prüfen auf zumindest offensichtliche Krankheiten
 
@@ -164,7 +158,6 @@ Der Anfang ist das schwerste ;)
 
 --
 
-## Betriebsmittel
 ### Die Beute 
 
 Live Vorstellung beim Vorbereiten der Beuten (24.4.21)
@@ -179,6 +172,28 @@ Wir nutzen als Typ/Maß: Dadant US
 
 --
 
+### Dadant ... unser Beutenformat
+* unterschiedliche  Rähmchenmaße  (Honigraum mit Halbzargen)
+* einzelne Honigzargen leichter 
+* Brutraum relativ schwer (mehr Holz)
+* Brutraumerweiterung zur Seite durch einhängen weiterer Rähmchen 
+* Honigraumerweiterung  durch  Aufsetzen einer Flachzarge 
+* Schwarmkontrolle  durch  Rähmchenziehen 
+* keine Unterbrechungen des Brutnestes durch Rähmchenleisten 
+* Trennschied  erforderlich  
+
+--
+
+### Größenvergleich anhand des Rähmchens
+| Rähmchenmaß | Länge | Höhe | Fläche in qdm|
+|--- |--- |--- |--- |
+|Dadant | 448 | 285 | 10.8 |
+|Zander | 420 | 220 | 8.0  |
+|Normal | 370 | 223 | 7,3  |
+
+
+--
+
 ### Mittelwände
 Mittelwände sind Wachsplatten, die die Wabenstruktur bereits vorgeprägt haben
 ***
@@ -187,7 +202,6 @@ Mittelwände sind Wachsplatten, die die Wabenstruktur bereits vorgeprägt haben
 
 --
 
-### Mittelwände
 #### Qualitätskriterien
 
 * Erzeugerqualität:
@@ -201,31 +215,32 @@ Mittelwände sind Wachsplatten, die die Wabenstruktur bereits vorgeprägt haben
     * Sonstige "Zusätze" (z.B. Parafine)<!-- .element: class="fragment" style="color:red" -->
 
 ---
+
 ## Arbeitsgeräte
+
+--
 ### Stockmeißel  
 ![Stockmeißel](./basiskurs1-data/stockmeisel.gif)
 
 --
 
-## Arbeitsgeräte
 ### Smoker und Rauchstoff
 ![Smoker](./basiskurs1-data/smoker.png) <!-- .element width="25%" -->
 
 --
 
-## Arbeitsgeräte
 ### Bienenbesen
 ![Bienenbesen](./basiskurs1-data/bienenbesen.png) <!-- .element width="50%" -->
 
 --
 
-## Arbeitsgeräte
 ### Sonstiges
 * Schutzanzug
 * Wassersprüher
 * Rähmchenspanner
 * Spanngurte
 * Medikamente und deren Applikatoren
+* Königinnenfangclip
 * etc.
 
 ---
@@ -285,8 +300,12 @@ Kommt primär bei Bienenhäusern zum tragen
 * Steuerrecht
 * Gewerberecht
 
+--
+
 ### Eure Betriebsnummer
-Ja, ihr seid als Imker offiziell Landwirte und braucht eine Betriebsnummer
+Imker sind offiziell Landwirte
+* jetzt Betriebsnummer beantragen 
+* mit der Nummer und sobald ihr eure Völker habt: Meldung beim Veterinär
 
 ---
 
